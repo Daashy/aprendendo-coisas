@@ -1,6 +1,6 @@
 < ?php
 
-echo "hellow world!";
+echo "hi there!";
 echo "salve";
 
 
